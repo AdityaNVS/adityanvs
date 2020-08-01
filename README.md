@@ -6,4 +6,10 @@ I'm a Tech-enthusiast who loves to explore and experiment with new technologies 
 
 <!-- ?style=for-the-badge&logo=appveyor -->
 ### Connect Me At 
-[![Linkedin Badge](https://img.shields.io/badge/-ADITYA_NADAMUNI-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityanvs/)](https://www.linkedin.com/in/adityanvs/) [![Twitter Badge](https://img.shields.io/badge/-@theAdityaNVS-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theadityanvs)](https://twitter.com/theadityanvs) [![Instagram Badge](https://img.shields.io/badge/-@aditya.nvs-D7008A?style=for-the-badge&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya.nvs/)](https://www.instagram.com/aditya.nvs/) [![Discord Badge](https://img.shields.io/badge/-A6ityo-7289da?style=for-the-badge&labelColor=7289daA&logo=Discord&logoColor=white&link=https://www.discordapp.com/)](https://www.discordapp.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-ADITYA_NADAMUNI-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityanvs/)](https://www.linkedin.com/in/adityanvs/) [![Twitter Badge](https://img.shields.io/badge/-theAdityaNVS-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theadityanvs)](https://twitter.com/theadityanvs) [![Instagram Badge](https://img.shields.io/badge/-aditya.nvs-D7008A?style=for-the-badge&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya.nvs/)](https://www.instagram.com/aditya.nvs/) [![Discord Badge](https://img.shields.io/badge/-A6ityo-7289da?style=for-the-badge&labelColor=7289daA&logo=Discord&logoColor=white&link=https://www.discordapp.com/)](https://www.discordapp.com/)
+
+
+<details close>
+<summary><strong>Stats ?</strong> <em>(Click To Expand)👈</em>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-nadamuni&show_icons=true)
+</details>
