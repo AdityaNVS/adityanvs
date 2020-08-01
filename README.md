@@ -11,6 +11,6 @@ I'm a Tech-enthusiast who loves to explore and experiment with new technologies 
 <details close>
 <summary><b>Stats ?</b> <i>(Click To Expand)👈</i></summary>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-nadamuni&show_icons=true)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-nvs&show_icons=true)
 
 </details>
