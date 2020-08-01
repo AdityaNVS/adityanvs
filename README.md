@@ -10,6 +10,8 @@ I'm a Tech-enthusiast who loves to explore and experiment with new technologies 
 
 
 <details close>
-<summary><strong>Stats ?</strong> <em>(Click To Expand)👈</em>
+<summary><b>Stats ?</b> <i>(Click To Expand)👈</i>
+
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-nadamuni&show_icons=true)
+
 </details>
