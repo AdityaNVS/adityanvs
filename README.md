@@ -4,5 +4,5 @@ I'm a passionate self taught **Front-end Developer** 🚀 from India, currently 
 
 I'm a Tech-enthusiast who loves to explore and experiment with new technologies and leverage it to solve real-life problems. I'm driven by the will to create an impact, inspire and encourage people to learn new technologies in communities. 
 
-### Reach Me At 
-[![Twitter Badge](https://img.shields.io/badge/TWITTER-FOLLOW-BLUE.svg)](https://twitter.com/theadityanvs)
+### Connect Me At 
+[![Linkedin Badge](https://img.shields.io/badge/-ADITYA NADAMUNI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityanvs/)](https://www.linkedin.com/in/adityanvs/) [![Twitter Badge](https://img.shields.io/badge/-@theAdityaNVS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theadityanvs)](https://twitter.com/theadityanvs) [![Instagram Badge](https://img.shields.io/badge/-@aditya.nvs-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya.nvs/)](https://www.instagram.com/aditya.nvs/) [![Discord Badge](https://img.shields.io/badge/-A6ityo-7289da?style=flat-square&labelColor=7289daA&logo=Discord&logoColor=white&link=https://www.discordapp.com/)](https://www.discordapp.com/)
