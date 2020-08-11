@@ -1,5 +1,5 @@
 ### Hello World, I'm Aditya! 😃
-<img src="https://komarev.com/ghpvc/?username=theadityanvs" alt="theadityanvs" /> [![Repos Badge](https://badges.pufler.dev/repos/theadityanvs)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/theadityanvs)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=theadityanvs" alt="theadityanvs" /> <!-- These Badges Ain't Working Anymore [![Repos Badge](https://badges.pufler.dev/repos/theAdityaNVS)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/theAdityaNVS)](https://badges.pufler.dev) -->
 
 I'm a passionate self taught **Front-end Developer** 🚀 from India, currently a **Junior Year Student** in **Computer Science** Stream from [@Gitam University](https://www.gitam.edu/) 🎓 and I'm a Community Core Member 🙋‍♂️ at [@DSC GITAM](https://github.com/dsc-gitam) and [@GirlScript](https://github.com/girlscript)  Vizag Chapter as Front-end Dev and Graphic Designer. 
 
