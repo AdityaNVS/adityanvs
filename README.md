@@ -5,9 +5,9 @@ I'm a passionate self taught **Front-end Developer** 🚀 from India, currently 
 
 I'm a Tech-enthusiast who loves to explore and experiment with new technologies and leverage it to solve real-life problems. I'm driven by the will to create an impact, inspire and encourage people to learn new technologies in communities. 
 
-- 🔭 My area of interest is in Web Development. 
-- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" height="20px" width="auto">
-  </a> and <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg" alt="azure" height="20px" width="auto"> sideby.
+- 🔭 My area of interest is in Web Development and Cloud Computing. 
+<!-- - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" height="20px" width="auto">
+  </a> and <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg" alt="azure" height="20px" width="auto"> sideby. -->
 
 #### Connect Me At 
 [<img src = "https://img.shields.io/badge/Mail_Me-red.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:aditya.nadamuni@gmail.com)
